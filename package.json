@@ -1,0 +1,26 @@
+{
+  "name": "flight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "KULDEEP",
+  "license": "ISC",
+  "dependencies": {
+    "amadeus": "^8.0.0",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rajpurohit0/API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajpurohit0/API/issues"
+  },
+  "homepage": "https://github.com/rajpurohit0/API#readme",
+  "description": ""
+}
